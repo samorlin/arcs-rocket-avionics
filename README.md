@@ -1,15 +1,21 @@
 # ARCS Rocket Avionics System & Flight Computer
 
 Custom-designed, multi-sensor flight computer and high-g avionics bay built for the UK ARCS National Rocketry Competition. Led a 4-person avionics sub-team through complete system lifecycle: prototyping, PCB layout, firmware development, mechanical structural integration, and post-flight failure analysis.
-<p align="center">
-  <img src="media/Avionics Assembly.png">
-  <img src="media/IMG_4383.jpg">
-</p>
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="docs/images/cad_assembly.png" alt="media/Avionics Assembly.pngl">
+      <br>
+      <sub><b>CAD Assembly</b> — Avionics bay & hardware stack</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="media/IMG_4383.jpg">
+      <br>
+      <sub><b>Flight Test</b> — Rocket launch in action</sub>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <em><b>Left:</b> CAD assembly of the ARCS avionics bay, showing custom PCB sled, power bay, and nosecone integration. <br>
-  <b>Right:</b> Successful flight test of the system in action.</em>
-</p>
 ---
 
 ## Technical Specifications
