@@ -51,7 +51,20 @@ During competition testing, the vehicle achieved a measured apogee of 411 m. Due
 
 * **Result:** While the outer airframe and nosecone suffered heavy structural failure, the internal PETG sled and load-bearing steel rods fully protected the internal electronics.
 * **Data Status:** The PCB remained intact, powered on, and actively logging. **100% of flight log data was recovered uncorrupted.**
-
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="firmware/Flight Data & Graphs/Figure_10_Smoothed_Altitude_and_Velocity_vs_Time.png">
+      <br>
+      <sub><b>Altitude vs Time </b> — Graph shows 80m/s impact.</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="firmware/Flight Data & Graphs/Figure_12_Payload_Internal_Temperature_vs_Time.png">
+      <br>
+      <sub><b>Temperature vs Time</b> — Graph shows internal temperature spike when avionics powers on.</sub>
+    </td>
+  </tr>
+</table>
 ---
 
 ## Repository Contents
