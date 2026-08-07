@@ -69,6 +69,6 @@ During competition testing, the vehicle achieved a measured apogee of 411 m. Due
 
 ## Repository Contents
 * `/documentation/` - Formal milestone review PDFs (Critical Design Review, Manufacturing & Testing Review, Flight Readiness Review, Post-Flight Analysis).
-* `/hardware/` - KiCad schematics, board layouts, and Gerber files.
+* `/hardware/` - KiCad schematics, board layouts, Gerber files, and Full Avionics CAD Assembly (STEP).
 * `/firmware/` - ESP32 C++ flight code, MATLAB scripts, raw sensor data csv and MATLAB plots.
 * `/media/` - Hardware photos, PCB assembly images, Launch day photos, and post-flight recovery photos.
