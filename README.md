@@ -4,7 +4,7 @@ Custom-designed, multi-sensor flight computer and high-g avionics bay built for 
 <table border="0">
   <tr>
     <td width="50%" align="center">
-      <img src="docs/images/cad_assembly.png" alt="media/Avionics Assembly.png">
+      <img src="media/Avionics Assembly.png">
       <br>
       <sub><b>CAD Assembly</b> — Avionics bay & hardware stack</sub>
     </td>
