@@ -18,12 +18,13 @@ Custom-designed, multi-sensor flight computer and high-g avionics bay built for 
 
 ### 1. Custom 2-Layer PCB Design (KiCad)
 * Designed a custom 2-layer FR4 board featuring dedicated ground planes to isolate sensitive I2C sensor traces from power supply EMI.
-* Mitigated micro-SD card write-cycle power transients by expanding main traces to 30-mil and placing a 10µF low-ESR tantalum decoupling capacitor directly on the 3.3V supply rail.
+* Optimised trace routing and space efficiency to meet 40mm diameter envelope.
 * Replaced low-vibration-tolerant Mini Tamiya power connectors with high-reliability XT30 connectors.
 
 ### 2. Mechanical Integration & Structural DFAM
 * Designed a 3D-printed PETG sled featuring embedded brass heat-set inserts for secure, repeatable PCB mounting.
 * Ran continuous M3 stainless steel load-bearing rods with Nyloc nuts through the sled assembly to absorb longitudinal shock forces during parachute deployment and ground impact.
+* Designed battery mounting solution into the sled and added insert holes for live telemetry and LCD circuit.
 
 ### 3. Data Pipeline & Telemetry
 * Developed C++ firmware for high-rate sensor sampling and continuous CSV write protocols.
@@ -40,7 +41,7 @@ During competition testing, the vehicle achieved a measured apogee of 411 m. Due
 ---
 
 ## Repository Contents
-* `/documentation/` - Formal milestone review PDFs (CDR, MTR, FRR, Post-Flight Analysis).
+* `/documentation/` - Formal milestone review PDFs (Critical Design Review, Manufacturing & Testing Review, Flight Readiness Review, Post-Flight Analysis).
 * `/hardware/` - KiCad schematics, board layouts, and Gerber files.
-* `/firmware/` - ESP32 C++ flight code and Python MySQL logging scripts.
+* `/firmware/` - ESP32 C++ flight code and MATLAB scripts.
 * `/media/` - Hardware photos, PCB assembly images, and post-flight recovery photos.
