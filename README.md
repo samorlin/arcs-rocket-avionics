@@ -4,14 +4,9 @@ Custom-designed, multi-sensor flight computer and high-g avionics bay built for 
 <table border="0">
   <tr>
     <td width="50%" align="center">
-      <img src="media/Avionics Assembly.png">
+      <img src="media/breadboard prototype.jpeg">
       <br>
-      <sub><b>CAD Assembly</b> — Avionics bay & hardware stack</sub>
-    </td>
-    <td width="50%" align="center">
-      <img src="media/IMG_4383.jpg">
-      <br>
-      <sub><b>Flight Test</b> — Rocket launch in action</sub>
+      <sub><b>Initial Prototype</b> — Sensor suite breadboard</sub>
     </td>
   </tr>
 </table>
@@ -25,7 +20,13 @@ Custom-designed, multi-sensor flight computer and high-g avionics bay built for 
 * **Telemetry:** ExpressLRS (ELRS) 2.4GHz RF Link with independent 1S battery backup
 * **Power Architecture:** 2S LiPo (8.4V nominal) stepped down via high-efficiency 3.3V switching buck regulator
 * **Airframe Diameter Envelope:** <40 mm ID
-
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="media/Avionics Assembly.png">
+      <br>
+      <sub><b>CAD Assembly</b> — Avionics bay & hardware stack</sub>
+    </td>
 ---
 
 ## Key Hardware & Software Accomplishments
