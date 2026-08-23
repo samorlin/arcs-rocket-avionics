@@ -4,12 +4,12 @@ Custom-designed, multi-sensor flight computer and high-g avionics bay built for 
 <table border="0">
   <tr>
     <td width="50%" align="center">
-      <img src="/media/breadboard prototype.jpeg">
+      <img src="media/breadboard prototype.jpeg">
       <br>
       <sub><b>Initial Prototype</b> — Sensor suite breadboard</sub>
     </td>
   </tr>
-</table>
+
 
 ---
 
