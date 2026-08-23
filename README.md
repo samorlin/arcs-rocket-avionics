@@ -37,12 +37,12 @@ Custom-designed, multi-sensor flight computer and high-g avionics bay built for 
 <table border="0">
   <tr>
     <td width="50%" align="center">
-      <img src="media/Kicad Design.JPG" height="300">
+      <img src="media/Kicad Design.JPG" height="400">
       <br>
       <sub><b>KiCad Design</b> — Custom PCB</sub>
     </td>
     <td width="50%" align="center">
-      <img src="media/PCB.JPG" height="300">
+      <img src="media/PCB.JPG" height="400">
       <br>
       <sub><b>Flight Computer</b> — Fully Assembled</sub>
     </td>
