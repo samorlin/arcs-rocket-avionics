@@ -39,12 +39,12 @@ Custom-designed, multi-sensor flight computer and high-g avionics bay built for 
     <td width="50%" align="center">
       <img src="media/Kicad Design.JPG" height="600">
       <br>
-      <sub><b>KiCad Design</b> — Custom PCB</sub>
+      <sub><b>Initial PCB Design</b> — Unnecessary pull-up resistors and decoupling capacitors and too wide</sub>
     </td>
     <td width="50%" align="center">
       <img src="media/PCB.JPG" height="600">
       <br>
-      <sub><b>Flight Computer</b> — Fully Assembled</sub>
+      <sub><b>Final Assembly</b> — Optimised tracing and stable power delivery and thinner package</sub>
     </td>
   </tr>
 </table>
