@@ -34,6 +34,21 @@ Custom-designed, multi-sensor flight computer and high-g avionics bay built for 
 * Designed a custom 2-layer FR4 board featuring dedicated ground planes to isolate sensitive I2C sensor traces from power supply EMI.
 * Optimised trace routing and space efficiency to meet 40mm diameter envelope.
 * Replaced low-vibration-tolerant Mini Tamiya power connectors with high-reliability XT30 connectors.
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="">
+      <br>
+      <sub><b>KiCad Design</b> — Custom PCB</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="">
+      <br>
+      <sub><b>Flight Computer</b> — Fully Assembled</sub>
+    </td>
+  </tr>
+</table>
+
 
 ### 2. Mechanical Integration & Structural DFAM
 * Designed a 3D-printed PETG sled featuring embedded brass heat-set inserts for secure, repeatable PCB mounting.
